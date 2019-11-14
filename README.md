@@ -1,6 +1,8 @@
 Flask-Canonical
 ===============
 
+**This project is unmaintained. Consider using [flask-events](https://github.com/get-wrecked/flask-events) instead.**
+
 Flask middleware to help log with [canonical logging](https://brandur.org/canonical-log-lines).
 
 
